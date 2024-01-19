@@ -12,7 +12,7 @@ function NavBar({ search }) {
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container fluid>
         <Navbar.Brand href="#" className="letter-spacing" style={{fontStyle:'italic'}}>
-          Moves
+          Movies
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
